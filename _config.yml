@@ -2,6 +2,7 @@ name: memycameraandYou
 favicon: null
 layout_spectrum: 0.8010886730626225
 typography_spectrum: 0.6282927768770605
+title: 'me, my camera and You'
 cta:
   domain: null
   bucket: null
