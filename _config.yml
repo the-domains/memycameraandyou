@@ -1,7 +1,7 @@
 name: memycameraandYou
 favicon: null
-layout_spectrum: 0.8010886730626225
-typography_spectrum: 0.6282927768770605
+layout_spectrum: 0.27081
+typography_spectrum: 0.46625
 title: 'me, my camera and You'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.12031807308085263
-  lightness: 0.46225145156495273
-  saturation: 0.3962013144046068
-  rhythmicContrast: 0.5132559733465314
+  brandStrength: 0.75
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
